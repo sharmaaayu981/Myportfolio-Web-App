@@ -1,5 +1,5 @@
 <?php 
-$ToEmail = 'aayusharma981@gmail.com'; 
+$ToEmail = 'nilay.das@yahoo.com';
 $EmailSubject = 'Site contact form'; 
 $mailheader = "From: ".$_POST["email"]."\r\n"; 
 $mailheader .= "Reply-To: ".$_POST["email"]."\r\n"; 
